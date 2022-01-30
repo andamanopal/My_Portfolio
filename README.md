@@ -1,4 +1,4 @@
-# My_Portfolio
+# Andaman's
 Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanical Engineering Department, KAIST, South Korea. My main personal interest lies in the field of robotics, machine learnings, and data science. Below are some of my personal projects where I applied various methods and toolboxes to topics of my interests in order to demonstrate and improve my data science skills so that I can become an aspiring data scientist in the near future!! I hope you enjoy my work :D
 
 ## Project 1 : League of Legends EDA and Win Prediction
