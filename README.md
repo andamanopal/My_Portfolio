@@ -6,7 +6,7 @@ Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanica
 - Preprocess and prepare raw data into more managable .csv format
 - Built a classification model to predict whether a team will win or lose by observing the team statistics at 10-minutes mark 
 
-### Mini-Project 1 : Smart AC RL Agent by Custom OpenAI Gym Environment 
+### [Mini-Project 1 : Smart AC RL Agent by Custom OpenAI Gym Environment](https://github.com/andamanopal/smart_ac)
 (Part of SuperAI Season 2 qualification process, first round)
 - Implement OpenAI gym to create a custom environment for a simple single-agent RL training
 - Use PPO algorithm imported from SB3
