@@ -6,7 +6,7 @@ Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanica
 - Preprocess and prepare raw data into more managable .csv format
 - Built a classification model to predict whether a team will win or lose by observing the team statistics at 10-minutes mark 
 
-## Project 2 : Font Recognition
+## [Project 2 : Font Recognition](https://github.com/andamanopal/font-recognition)
 (Part of SuperAI Season 2 Kaggle Hackathon - by AppMan)
 - Explore various simple image preprocessing for better classification result
 - Utilize PyTorch framework to construct and transfer learn various CNN-based classification models
