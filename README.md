@@ -6,7 +6,7 @@ Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanica
 - Preprocess and prepare raw data into more managable .csv format
 - Built a classification model to predict whether a team will win or lose by observing the team statistics at 10-minutes mark 
 
-## [Project 2 : Andaman's Pipelines](https://github.com/andamanopal/league-of-legends-ds)
+## [Project 2 : Andaman's Pipelines]()
 - A collection of multiple end-to-end training pipelines for various DL models for various problems (PyTorch)
 - Only requirement is to prepare dataset into pre-defined format as below
 
