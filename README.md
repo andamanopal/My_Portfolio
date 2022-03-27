@@ -1,4 +1,4 @@
-# Andaman's
+# Andaman's Workspace ^^
 Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanical Engineering Department, KAIST, South Korea. My main personal interest lies in the field of robotics, machine learnings, and data science. Below are some of my personal projects where I applied various methods and toolboxes to topics of my interests in order to demonstrate and improve my data science skills so that I can become an aspiring data scientist in the near future!! I hope you enjoy my work :D
 
 ## [Project 1 : Data Science and League of Legends](https://github.com/andamanopal/league-of-legends-ds)
@@ -11,6 +11,6 @@ Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanica
 - Implement OpenAI gym to create a custom environment for a simple single-agent RL training
 - Use PPO algorithm imported from SB3
 
-## [Mini-Project 2 : Font Recognition](https://github.com/andamanopal/font-recognition)
+### [Mini-Project 2 : Font Recognition](https://github.com/andamanopal/font-recognition)
 - Explore various simple image preprocessing for better classification result
 - Utilize PyTorch framework to construct and transfer learn various CNN-based classification models
