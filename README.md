@@ -1,12 +1,16 @@
 # Andaman's Workspace ^^
 Hi, my name is Andaman Lekawat and I'm currently a 4th-year student in Mechanical Engineering Department, KAIST, South Korea. My main personal interest lies in the field of robotics, machine learnings, and data science. Below are some of my personal projects where I applied various methods and toolboxes to topics of my interests in order to demonstrate and improve my data science skills so that I can become an aspiring data scientist in the near future!! I hope you enjoy my work :D
 
-## [Project 1 : Data Science and League of Legends](https://github.com/andamanopal/league-of-legends-ds)
+## [Project 1 : Segmentation with UNet-based Models](https://github.com/andamanopal/medical-segmentation)
+- Explore various UNet-based models for medical stent segmentation in IV-OCT images
+- Explore hyterparameters tuning to maximize DICE score
+
+## [Project 2 : Data Science and League of Legends](https://github.com/andamanopal/league-of-legends-ds)
 - Utilize riot API to collect matches statistics (Challenger division, NA region)
 - Preprocess and prepare raw data into more managable .csv format
 - Built a classification model to predict whether a team will win or lose by observing the team statistics at 10-minutes mark 
 
-## [Project 2 : EZ Pipelines](https://github.com/andamanopal/my-pipelines)
+## [Project 3 : EZ Pipelines](https://github.com/andamanopal/my-pipelines)
 - A collection of multiple end-to-end training pipelines for various DL models for various problems (PyTorch)
 - Only requirement is to prepare dataset into pre-defined format
 
